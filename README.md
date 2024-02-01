@@ -22,7 +22,7 @@ The condition system is designed to be flexible, enabling the formulation of con
 
 ## Integration
 
-Designed to be easy to use with any Eluna project, you can use lua_simple_conditions to structure the conditional code of your project. For example, within the lua_player_aura project or lua_player_statistics or lua_spell_overlay, lua_simple_conditions is used to manage the conditions under which auras are applied to players.
+Designed to be easy to use with any Eluna project, you can use lua_simple_conditions to structure the conditional code of your project. For example, within the lua_player_aura project, lua_simple_conditions is used to manage the conditions under which auras are applied to players.
 
 
 
